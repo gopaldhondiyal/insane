@@ -1,2 +1,2 @@
 FROM UBUNTU
-RUN echo "subscribe iccpinfotech " >/tmp/iccpfile
+RUN echo "hello india " >/tmp/iccpfile
